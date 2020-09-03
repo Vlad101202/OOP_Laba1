@@ -43,7 +43,8 @@ Thumbs.db
 /bin/Release/*
 !/bin/**/wp.exe
 !/bin/**/mpv.exe
-!/bin/**/youtube-dl.exe
+
+!mpv.rar
 
 /obj/
 /soft/
