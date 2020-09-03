@@ -1,3 +1,7 @@
 {
-	"Comment": "This is test JSON file"
+	"Comment": "This is test JSON file",
+	"Changes": [
+		"Changes from master branch",
+		"Changes from test branch"
+	]
 }
