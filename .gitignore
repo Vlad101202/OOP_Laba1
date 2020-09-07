@@ -39,13 +39,11 @@ Thumbs.db
 # Common #
 ##########
 
-/bin/Debug/*
-/bin/Release/*
-!/bin/**/wp.exe
-!/bin/**/mpv.exe
+[Dd]ebug/
+[Rr]elease/
 
 !mpv.rar
 
-/obj/
-/soft/
+obj/*
+soft/*
 *.user
