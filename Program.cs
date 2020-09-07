@@ -18,5 +18,5 @@ namespace LiveWallPaper {
 
             Application.Run(new MainForm());
         }
-    }
+    }                                                                       //here was Vlad101202 :D
 }
